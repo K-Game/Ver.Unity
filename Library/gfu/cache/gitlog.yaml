@@ -1,0 +1,620 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-09-25T12:23:49.949+09:00
+  initializedAtString: 2019-09-25T11:37:48.572+09:00
+  log:
+  - commitID: b46b617c008cebe57ca3b03812bea1fbba6e72b5
+    mergeA: 
+    mergeB: 
+    authorName: K-Keito
+    authorEmail: 54610490+K-Keito@users.noreply.github.com
+    commitEmail: 54610490+K-Keito@users.noreply.github.com
+    commitName: K-Keito
+    summary: kari
+    description: 1st
+    timeString: 2019-09-25T12:23:48.000+09:00
+    commitTimeString: 2019-09-25T12:23:48.000+09:00
+    changes:
+    - path: Assets\Game.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game.meta
+      projectPath: Assets\Game.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Assets.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Assets.meta
+      projectPath: Assets\Game\Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Assets\1st.unity
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Assets\1st.unity
+      projectPath: Assets\Game\Assets\1st.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Assets\1st.unity.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Assets\1st.unity.meta
+      projectPath: Assets\Game\Assets\1st.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Material.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Material.meta
+      projectPath: Assets\Game\Material.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Material\New Material.mat
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Material\New
+        Material.mat
+      projectPath: Assets\Game\Material\New Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Material\New Material.mat.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Material\New
+        Material.mat.meta
+      projectPath: Assets\Game\Material\New Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Script.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Script.meta
+      projectPath: Assets\Game\Script.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Script\NewBehaviourScript.cs
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Script\NewBehaviourScript.cs
+      projectPath: Assets\Game\Script\NewBehaviourScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game\Script\NewBehaviourScript.cs.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Game\Script\NewBehaviourScript.cs.meta
+      projectPath: Assets\Game\Script\NewBehaviourScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: d407677fb66f379f00f240bec67e2d001bf1292f
+    mergeA: 
+    mergeB: 
+    authorName: K-Keito
+    authorEmail: 54610490+K-Keito@users.noreply.github.com
+    commitEmail: 54610490+K-Keito@users.noreply.github.com
+    commitName: K-Keito
+    summary: Revert "Initial commit"
+    description: This reverts commit b480cb36b62948aba71ae1b6c8480b28ae2b0948.
+    timeString: 2019-09-25T11:57:08.000+09:00
+    commitTimeString: 2019-09-25T11:57:08.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: b480cb36b62948aba71ae1b6c8480b28ae2b0948
+    mergeA: 
+    mergeB: 
+    authorName: K-Keito
+    authorEmail: 54610490+K-Keito@users.noreply.github.com
+    commitEmail: 54610490+K-Keito@users.noreply.github.com
+    commitName: K-Keito
+    summary: Initial commit
+    description: 
+    timeString: 2019-09-25T11:37:46.000+09:00
+    commitTimeString: 2019-09-25T11:37:46.000+09:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\2170139.MAETEL\Documents\UnityGame\New Unity Project (1)\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
